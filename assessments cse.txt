@@ -1,0 +1,6 @@
+1.what are datatypes? explain the primitive and non-primitive data types.
+2.what is the difference between "==" & "===".
+3.what is function? list out the types of function.
+4.explain closure in JavaScript? with examples.
+
+https://us06web.zoom.us/j/82190219173?pwd=GzqFQxVnD2rOseqabkC1GpWA3VKAGu.1
